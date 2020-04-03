@@ -13,3 +13,7 @@ print(c)
 #Task5
 d = [200 for x in range(87)]
 print(d)
+#Task6
+C = [x for x in range(0, 100)]
+F = [x * 1.8 + 32 for x in C]
+print(F)
