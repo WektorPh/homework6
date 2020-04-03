@@ -4,3 +4,6 @@ print(l)
  #Task2
 a = [x for x in range(57, 139, 2)]
 print(a)
+#Task3
+b = [2 ** x for x in range(30)]
+print(b)
