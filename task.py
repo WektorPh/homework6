@@ -10,3 +10,6 @@ print(b)
 #Task4
 c =[x for x in range(-100, 99)]
 print(c)
+#Task5
+d = [200 for x in range(87)]
+print(d)
