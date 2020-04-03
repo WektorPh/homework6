@@ -7,3 +7,6 @@ print(a)
 #Task3
 b = [2 ** x for x in range(30)]
 print(b)
+#Task4
+c =[x for x in range(-100, 99)]
+print(c)
