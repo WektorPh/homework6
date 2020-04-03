@@ -17,3 +17,16 @@ print(d)
 C = [x for x in range(0, 100)]
 F = [x * 1.8 + 32 for x in C]
 print(F)
+#Task7
+import random
+k = [(random.randint(1, 200), random.randint(1, 200)) for x in range(100)]
+print(k)
+def lesser(num):
+	return int(num[0]/num[1])
+
+p = list(map(lesser, k))
+print(p)
+
+
+
+
