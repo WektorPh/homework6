@@ -8,7 +8,7 @@ print(a)
 b = [2 ** x for x in range(30)]
 print(b)
 #Task4
-c =[x for x in range(-100, 99)]
+c =[x for x in range(-100, 100)]
 print(c)
 #Task5
 d = [200 for x in range(87)]
